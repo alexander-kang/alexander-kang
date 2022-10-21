@@ -1,5 +1,5 @@
 ### :wave: About me
-* Sophomore studying Computer Science (B.S./M.S.) at Northwestern University
+* Junior studying Computer Science at Northwestern University
 * Focused on computer systems and hardware
 * Interested in sustainability, video games, and music
 
