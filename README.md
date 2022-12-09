@@ -5,9 +5,9 @@
 
 ### :computer: Skills
 * C
-* C++
 * Python 3
-* PCB/circuit design
+* Autodesk EAGLE
+* Assembly (x86 or ARMv7)
 
 ### :thought_balloon: Learn more
-Head over to my [LinkedIn](https://www.linkedin.com/in/akang/) to find out more about me!
+Head over to my [website](https://alexander-kang.github.io/) or my [LinkedIn](https://www.linkedin.com/in/akang/) to find out more about me!
