@@ -4,6 +4,7 @@
 * Interested in sustainability, working out, video games, and music
 
 ### :computer: Skills
+* C++
 * C
 * Python 3
 * Autodesk EAGLE
