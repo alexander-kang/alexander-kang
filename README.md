@@ -1,5 +1,5 @@
 ### :wave: About me
-* Junior studying Computer Science at Northwestern University
+* Senior studying Computer Science at Northwestern University
 * Focused on embedded systems, IoT, and computer networking
 * Interested in sustainability, working out, video games, and music
 
