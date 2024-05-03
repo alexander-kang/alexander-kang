@@ -1,6 +1,5 @@
 ### :wave: About me
-* Senior studying Computer Science at Northwestern University
-* Focused on embedded systems, IoT, and computer networking
+* I work in embedded software and firmware
 * Interested in sustainability, working out, video games, and music
 
 ### :thought_balloon: Learn more
